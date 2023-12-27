@@ -1,3 +1,6 @@
 # ToDoApp
+traditional To Do app with the necessary use cases
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/DamarioCodes/ToDoApp)
+Check it out below !
+
+https://vue-zceirz.stackblitz.io
